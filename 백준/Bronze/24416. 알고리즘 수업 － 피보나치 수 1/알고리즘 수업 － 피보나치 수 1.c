@@ -3,7 +3,7 @@
 int n;
 int code1 = 0, code2 = 0;
 
-int fib(int n) {
+int fib(n) {
     if (n == 1 || n == 2) code1 ++;
     else{
         return (fib(n - 1) + fib(n - 2));
