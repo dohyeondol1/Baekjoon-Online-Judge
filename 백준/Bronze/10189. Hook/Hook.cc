@@ -6,7 +6,7 @@ int main()
     cout<<"#  # #### #### #  #"<<endl;
     cout<<"#### #  # #  # # # "<<endl;
     cout<<"#### #  # #  # # # "<<endl;
-    std::cout<<"#  # #### #### #  #";
+    cout<<"#  # #### #### #  #";
 
     return 0;
 }
